@@ -17,7 +17,7 @@ The URI for your cats is:
 
 Example:
 
-![Example](https://imgur.com/gMbvz5K)
+![Example](https://imgur.com/gMbvz5K.png)
 
 So to deploy your API run these comamnds:
 ```
